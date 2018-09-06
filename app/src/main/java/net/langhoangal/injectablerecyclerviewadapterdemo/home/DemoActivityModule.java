@@ -1,4 +1,4 @@
-package net.langhoangal.injectablerecyclerviewadapter.demo;
+package net.langhoangal.injectablerecyclerviewadapterdemo.home;
 
 import dagger.Binds;
 import dagger.Module;
@@ -9,8 +9,8 @@ import net.langhoangal.direcycleradapter.adapter.RecyclerDataSource;
 import net.langhoangal.direcycleradapter.item.ItemRenderer;
 import net.langhoangal.direcycleradapter.item.RecyclerItem;
 import net.langhoangal.direcycleradapter.item.RenderKey;
-import net.langhoangal.injectablerecyclerviewadapter.demo.renderers.ImageItemRenderer;
-import net.langhoangal.injectablerecyclerviewadapter.demo.renderers.TextItemRenderer;
+import net.langhoangal.injectablerecyclerviewadapterdemo.home.renderers.ImageItemRenderer;
+import net.langhoangal.injectablerecyclerviewadapterdemo.home.renderers.TextItemRenderer;
 
 @Module public abstract class DemoActivityModule {
 

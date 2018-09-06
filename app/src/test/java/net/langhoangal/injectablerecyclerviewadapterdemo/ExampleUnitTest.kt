@@ -1,4 +1,4 @@
-package net.langhoangal.injectablerecyclerviewadapter
+package net.langhoangal.injectablerecyclerviewadapterdemo
 
 import org.junit.Test
 

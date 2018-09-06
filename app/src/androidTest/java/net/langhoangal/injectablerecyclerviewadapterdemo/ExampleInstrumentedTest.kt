@@ -1,4 +1,4 @@
-package net.langhoangal.injectablerecyclerviewadapter
+package net.langhoangal.injectablerecyclerviewadapterdemo
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4

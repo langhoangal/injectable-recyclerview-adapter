@@ -9,7 +9,7 @@ apply plugin: 'kotlin-kapt'
 android {
   compileSdkVersion rootProject.ext.compileSdkVersion
   defaultConfig {
-    applicationId "net.langhoangal.injectablerecyclerviewadapter"
+    applicationId "net.langhoangal.injectablerecyclerviewadapterdemo"
     minSdkVersion rootProject.ext.minSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
     versionCode 1

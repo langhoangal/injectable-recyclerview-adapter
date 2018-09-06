@@ -1,4 +1,4 @@
-package net.langhoangal.injectablerecyclerviewadapter.demo.renderers
+package net.langhoangal.injectablerecyclerviewadapterdemo.home.renderers
 
 import android.view.LayoutInflater
 import android.view.View
@@ -7,8 +7,8 @@ import android.widget.TextView
 import butterknife.BindView
 import butterknife.ButterKnife
 import net.langhoangal.direcycleradapter.item.ItemRenderer
-import net.langhoangal.injectablerecyclerviewadapter.R
-import net.langhoangal.injectablerecyclerviewadapter.demo.model.TextItem
+import net.langhoangal.injectablerecyclerviewadapterdemo.R
+import net.langhoangal.injectablerecyclerviewadapterdemo.home.model.TextItem
 import javax.inject.Inject
 
 class TextItemRenderer @Inject internal constructor() : ItemRenderer<TextItem> {

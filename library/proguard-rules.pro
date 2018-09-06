@@ -20,5 +20,5 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
--keep class com.witzmobility.** { *; }
--dontwarn com.witzmobility.**
+-keep class net.langhoangal.** { *; }
+-dontwarn net.langhoangal.**

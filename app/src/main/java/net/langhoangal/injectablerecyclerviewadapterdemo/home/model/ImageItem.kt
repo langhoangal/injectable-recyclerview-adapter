@@ -1,4 +1,4 @@
-package net.langhoangal.injectablerecyclerviewadapter.demo.model
+package net.langhoangal.injectablerecyclerviewadapterdemo.home.model
 
 import net.langhoangal.direcycleradapter.item.RecyclerItem
 
